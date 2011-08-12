@@ -74,6 +74,7 @@ class Gem::CommandManager
     register_command :rdoc
     register_command :search
     register_command :server
+    register_command :show
     register_command :sources
     register_command :specification
     register_command :stale
